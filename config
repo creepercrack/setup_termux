@@ -1,0 +1,2 @@
+# Default Output Directory and Pattern
+-o /storage/7C23-9E17/Vídeos/%(title)s.%(ext)s
