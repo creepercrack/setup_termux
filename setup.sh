@@ -8,4 +8,3 @@ curl https://raw.githubusercontent.com/creepercrack/setup_termux/main/config -o 
 mkdir ~/bin
 curl https://raw.githubusercontent.com/creepercrack/setup_termux/main/termux-url-opener -o ~/bin/termux-url-opener
 chmod +x ~/bin/termux-url-opener
-#cambuis yujuasdasdasdlol:D
